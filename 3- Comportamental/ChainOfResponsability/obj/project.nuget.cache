@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "if5zH/SbgJm3L1YTYGgcJ+7FWJfVusBH5CHRvqlTQ4+/Ae1E8UUw+kG1cM88yz7oNDt4zJykhqLyaVl1eP5wrw==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/dev/DesignPatterns/3- Comportamental/ChainOfResponsability/ChainOfResponsability.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

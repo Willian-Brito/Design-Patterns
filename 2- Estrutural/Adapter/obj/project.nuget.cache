@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZu6UOlAT0wLtaAv9uoKuVquIvBeSSwQH6Tio7vHITBA0SHwuOzdue/NKWuHzKoSv+JMp8uLXquZLr0IgxU4Xg==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/dev/DesignPatterns/2- Estrutural/Adapter/Adapter.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
